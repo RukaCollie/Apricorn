@@ -19,7 +19,7 @@ deathpoints:true
 oldDeathpoints:true
 distance:1
 lockNorth:true
-zoom:0
+zoom:1
 minimapSize:0
 chunkGrid:-1
 slimeChunks:false
@@ -41,13 +41,13 @@ waypointsDistanceExp:0
 waypointsDistanceMin:0.0
 defaultWaypointTPCommandFormat:/tp @s {x} {y} {z}
 defaultWaypointTPCommandRotationFormat:/tp @s {x} {y} {z} {yaw} ~
-arrowScale:1.0
+arrowScale:1.0000000149011612
 arrowColour:0
 smoothDots:true
 worldMap:true
 terrainDepth:true
 terrainSlopes:2
-mainEntityAs:0
+mainEntityAs:1
 blockTransparency:true
 waypointOpacityIngame:80
 waypointOpacityMap:90
@@ -59,7 +59,7 @@ crossDimensionalTp:true
 biomeColorsVanillaMode:false
 lookingAtAngle:10
 lookingAtAngleVertical:180
-centeredEnlarged:true
+centeredEnlarged:false
 zoomOnEnlarged:0
 minimapTextAlign:0
 waypointsMutualEdit:true
@@ -70,7 +70,7 @@ hideWaypointCoordinates:false
 renderAllSets:false
 playerArrowOpacity:100
 waypointsBottom:false
-minimapShape:1
+minimapShape:0
 lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0

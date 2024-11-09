@@ -116,6 +116,24 @@
   },
   "subCategories": [
     {
+      "hardInclude": "nothing",
+      "includeList": [
+        "cobblemon:pokemon"
+      ],
+      "includeListInSuperCategory": true,
+      "excludeMode": "ONLY",
+      "excludeList": [],
+      "name": "cobblemon",
+      "protection": false,
+      "settingOverrides": {
+        "renderOrder": 5.0,
+        "color": 2.0,
+        "alwaysDisplayNametags": false,
+        "icons": 2.0
+      },
+      "subCategories": []
+    },
+    {
       "hardInclude": "living",
       "includeList": [],
       "includeListInSuperCategory": true,

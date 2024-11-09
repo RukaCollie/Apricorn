@@ -1,5 +1,7 @@
+autoJump:false
 enableVsync:false
 fullscreen:true
+autoSuggestions:true
 darkMojangStudiosBackground:true
 fov:0.5
 simulationDistance:5
@@ -7,9 +9,10 @@ syncChunkWrites:false
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","distinguishedpotions:potion_overrides","file/Better-Leaves-8.1-1.20+.zip","file/Cobblemon Interface Modded v1.5.0.zip","continuity:default","continuity:glass_pane_culling_fix","programmer_art","presencefootsteps:default_sound_pack","seasons:seasonal_lush_caves","file/Cobblemon Interface v1.3.0.zip","$polymer-resources"]
+incompatibleResourcePacks:[]
 soundCategory_master:0.4
 soundCategory_music:0.1
-
 key_accessories.key.open_accessories_screen:key.keyboard.unknown
 key_desc.seasonhud.keybind.options:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.unknown
