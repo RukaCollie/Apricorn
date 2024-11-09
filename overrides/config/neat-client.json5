@@ -6,7 +6,7 @@
 	// Whether health bars should render when the HUD is disabled with F1
 	"renderInF1": false,
 	// How far above the mob the health bars should render
-	"heightAbove": 0,
+	"heightAbove": 0.6,
 	// Whether the gray background plate should be drawn
 	"drawBackground": true,
 	// Amount of extra padding space around the background plate
@@ -58,9 +58,9 @@
 	// If this is enabled and the "disableNameTag" option is true, the vanilla nametag is only hidden if the mob has a Neat healthbar rendered
 	"disableNameTagIfHealthbar": true,
 	// Offsets the healtbar icons on the x axis
-	"iconOffsetX": 0,
+	"iconOffsetX": 0.0,
 	// Offsets the healtbar icons on the y axis
-	"iconOffsetY": 0,
+	"iconOffsetY": 0.0,
 	// This value changes the decimal format of the HP. Only change this value if you are familiar with how the decimal format works!
 	"decimalFormat": "#.##",
 	// Entity ID's that should not have bars rendered
