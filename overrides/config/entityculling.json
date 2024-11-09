@@ -8,7 +8,9 @@
     "create:hose_pulley",
     "betterend:eternal_pedestal",
     "botania:magic_missile",
-    "botania:falling_star"
+    "botania:falling_star",
+    "cobblemon:healer",
+    "cobblemon:pc"
   ],
   "entityWhitelist": [
     "botania:mana_burst",

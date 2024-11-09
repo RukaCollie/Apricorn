@@ -1,5 +1,5 @@
 {
-	"dynamicCrosshair": "Advanced",
+	"dynamicCrosshair": "Disabled",
 	"disableDebugCrosshair": false,
 	"thirdPersonCrosshair": false,
 	"hideWithScreen": true,
@@ -132,7 +132,7 @@
 			}
 		}
 	},
-	"enableTweaks": true,
+	"enableTweaks": false,
 	"additionalTools": [],
 	"additionalMeleeWeapons": [],
 	"additionalRangedWeapons": [],

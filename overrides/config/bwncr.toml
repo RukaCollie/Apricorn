@@ -1,6 +1,6 @@
 [general]
 silenceWither = true
-silenceTrader = true
+silenceTrader = false
 silenceDragon = true
 silenceLightning = true
 silenceUs = []
