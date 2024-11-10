@@ -2541,21 +2541,6 @@
       "fileSize": 948816
     },
     {
-      "path": "mods/Cull Less Leaves-1.4.2+1.21-fabric.jar",
-      "hashes": {
-        "sha1": "fb6bc41a024e0f0f14ded097025d205a240a60b5",
-        "sha512": "e9f479d73d55963f71f9ad5dbdca2d287d28048aeca2818f9ffc9e7bb9531a18af4e894b4c673d435b051d4fad2cee9666f31a773486cee2e4b9548edfd34781"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/iG6ZHsUV/versions/4sXZok62/Cull%20Less%20Leaves-1.4.2%2B1.21-fabric.jar"
-      ],
-      "fileSize": 27086
-    },
-    {
       "path": "mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
       "hashes": {
         "sha512": "4ed2659c9e9c1a1fa8936523f7d6de1b8012d8e06e6c58ef65ea5c7acef2b3a113afe584b3a31d70eee00423dbe533c06022cc5f169ab5a2ddf8167acf259ec8",
