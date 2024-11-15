@@ -6,7 +6,7 @@
   "summary": "",
   "files": [
     {
-      "path": "datapacks/Cobblemon Create Compat v2.0 (Fabric).zip",
+      "path": "global_packs/required_data/Cobblemon Create Compat v2.0 (Fabric).zip",
       "hashes": {
         "sha512": "38ab09d1abb00634e428298b43b609ada7dda9b68e2d8987beaacd20e657f32425e7f153c86cf64d960ac98b3dc151143e64962047b62fabc91b1c42d9c4e9de",
         "sha1": "c14925b7dd05b37fe83dd29551026622ec9b44d4"
@@ -21,7 +21,7 @@
       "fileSize": 98666
     },
     {
-      "path": "datapacks/CobbleTowns v1.0.2.zip",
+      "path": "global_packs/required_data/CobbleTowns v1.0.2.zip",
       "hashes": {
         "sha512": "8a1333426b8c1c33fbd845b777e5a0a4275131fc7cba099dcd82565bb616da5e79df5fb9d49c00273e6b9a7e3875e63cb3c909a37a629f8c7f3cc836ec021fde",
         "sha1": "8d0ad8e2aac8dab1d0ca172ca0a607c2e1c24db2"
@@ -36,7 +36,7 @@
       "fileSize": 630817
     },
     {
-      "path": "datapacks/DisableAE2Meteors.zip",
+      "path": "global_packs/required_data/DisableAE2Meteors.zip",
       "hashes": {
         "sha512": "355fde41c404b6f23c8a9a18a8484979bce9589ca459420f53c84bbda2db3cc3e41de105dc1fb428872939fffd7f763a8e970d2af2f0d05c66d89e2d7c372b97",
         "sha1": "d6e38192fab5853204475e8145efc13f8fd1a45f"
@@ -51,7 +51,7 @@
       "fileSize": 702032
     },
     {
-      "path": "datapacks/MysticMons_v2.0.1.zip",
+      "path": "global_packs/required_data/MysticMons_v2.0.1.zip",
       "hashes": {
         "sha1": "69d70ac9e6e022dc01be91c3054cac9d05d4c9f9",
         "sha512": "4bb3961fa6c9b7d10fa452345193356951748b349f0a5887c5e09a83171f962878a0d754e2d46b87416c05ca1ea5c25944e0a4cc496962bcdf69cb3b68019585"
@@ -66,7 +66,7 @@
       "fileSize": 921253
     },
     {
-      "path": "datapacks/MythsandLegends-Datapack-v1.0.3.zip",
+      "path": "global_packs/required_data/MythsandLegends-Datapack-v1.0.3.zip",
       "hashes": {
         "sha512": "c0dac25e66bf3a94c8587970084b8b7e5d1bc7d9a67fb12e31fd4a476f441bb899c42733c555e07f063f044871a66ec680f4ce345def45a5f9705ec88671d4eb",
         "sha1": "99b5f0ca0a687615227183d4797b145e11bd686a"
@@ -3246,7 +3246,7 @@
       "fileSize": 1109436
     },
     {
-      "path": "resourcepacks/Cobblemon Interface Modded v1.5.0.zip",
+      "path": "global_packs/required_resources/Cobblemon Interface Modded v1.5.0.zip",
       "hashes": {
         "sha1": "718de928949b5f988da13a9c8b097d44408e4426",
         "sha512": "153206602236f914e833156c3752277342151a9e8ced8b0b3cadf5026edb68eb4eef39cde69d0e5297253703b8350bbde19d864956f9a1f6f277b463807a5b0f"
@@ -3261,7 +3261,7 @@
       "fileSize": 809898
     },
     {
-      "path": "resourcepacks/Cobblemon Interface v1.3.0.zip",
+      "path": "global_packs/required_resources/Cobblemon Interface v1.3.0.zip",
       "hashes": {
         "sha512": "4de5a81168461fd4c604367811fae43990978b85a8037d2e70bdc2357a9f5b34af2c6b39eecbe7b007b8d037b160f1f97bd3b2603064dbf9f4483e4dcf92d364",
         "sha1": "34f502ed01cf6fd0c3119a41f7528575b30ef613"
@@ -3276,7 +3276,7 @@
       "fileSize": 13921653
     },
     {
-      "path": "resourcepacks/E19 Cobblemon Minimap Icons.zip",
+      "path": "global_packs/required_resources/E19 Cobblemon Minimap Icons.zip",
       "hashes": {
         "sha512": "df88564c5c33a85d9f8fa4c88db6af6d81f6cc8a6bae372a85d064c73ad6d4e98dd714ee1c315a6286e70195c65cd39c1b798c1e7e26098c2d4c718aa2bb9785",
         "sha1": "2c2c6895413cbda2c88e2602e0fb98a2de721104"
@@ -3291,7 +3291,7 @@
       "fileSize": 6133433
     },
     {
-      "path": "resourcepacks/Emissive AE2.zip",
+      "path": "global_packs/required_resources/Emissive AE2.zip",
       "hashes": {
         "sha512": "0c8c6020ded7dd8a4239db8789cd73d3c906a4b24bc60ffd07ba0f4ea864166e01dea098ec0f2d9803ccbcd71a3dca6c5b88885209f79a257641376d5a20107e",
         "sha1": "95ce085bec2c3bb63cfc28d208f0a37b14dac722"
@@ -3306,7 +3306,7 @@
       "fileSize": 415337
     },
     {
-      "path": "resourcepacks/emissive-cobblemon-ores.zip",
+      "path": "global_packs/required_resources/emissive-cobblemon-ores.zip",
       "hashes": {
         "sha512": "0154f14a296222f991349ef060dbe989621305947716ac7f90d5456b6059ca1c764a042e46eb89c7f618156840853e597d35c91d94d6f7016f01eb09178c4ca1",
         "sha1": "d7c9f1c7b43b84438f60b6e60c090f7b2e79cb49"
