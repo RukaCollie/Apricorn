@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","distinguishedpotions:potion_overrides","presencefootsteps:default_sound_pack","seasons:seasonal_lush_caves","file/Cobblemon Interface Modded v1.5.0.zip","file/Cobblemon Interface v1.3.0.zip","file/Emissive AE2.zip","file/E19 Cobblemon Minimap Icons.zip","file/emissive-cobblemon-ores.zip","continuity:glass_pane_culling_fix","continuity:default","botaniacombat:botaniacombatlang","$polymer-resources"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","distinguishedpotions:potion_overrides","presencefootsteps:default_sound_pack","seasons:seasonal_lush_caves","continuity:glass_pane_culling_fix","continuity:default","botaniacombat:botaniacombatlang","$polymer-resources"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
