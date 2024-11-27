@@ -1896,6 +1896,21 @@
       "fileSize": 1604251
     },
     {
+      "path": "mods/LeavesBeGone-v8.0.0-1.20.1-Fabric.jar",
+      "hashes": {
+        "sha512": "0299a3b639b4fa27f590e3a9f1ebb2149b0106779b56bf7e1ee369c7a5283646a965bdfd6e7ad9266cba607e2fa750379e92ab88f0410bdb5f1c3a226693b826",
+        "sha1": "ba9bef859e585a25818c46113d3f33a42f0048a8"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AVq17PqV/versions/I6xyij66/LeavesBeGone-v8.0.0-1.20.1-Fabric.jar"
+      ],
+      "fileSize": 46694
+    },
+    {
       "path": "mods/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
       "hashes": {
         "sha1": "64170c3a1b42b8f8c430d4f2400644f8131a47a1",
@@ -2931,6 +2946,21 @@
       "fileSize": 1052832
     },
     {
+      "path": "mods/veinmining-fabric-1.5.0+1.20.1.jar",
+      "hashes": {
+        "sha512": "f6eeb5d5f9cea999f191b99cbff793a2df60f6cb043fef006a30ab1f8661be35e871c7e558aa698d654995e21f2b9a1c3f889eb6a5d7fe1c8595ccb4b9fc2c04",
+        "sha1": "ce6cb2fde3383c5a5e67e268d7ad060988a88e28"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/bRAPbNyF/versions/PFFXEfYV/veinmining-fabric-1.5.0%2B1.20.1.jar"
+      ],
+      "fileSize": 460079
+    },
+    {
       "path": "mods/visuality-0.7.1+1.20.jar",
       "hashes": {
         "sha1": "a4a5fc1edae49126432fc903dd6fdbb88b7251ed",
@@ -3341,3 +3371,4 @@
     "minecraft": "1.20.1"
   }
 }
+
