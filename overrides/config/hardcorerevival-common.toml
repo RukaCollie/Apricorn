@@ -33,13 +33,13 @@ rescueActionTicks = 40
 rescueDistance = 3.0
 
 # Effects applied to a player when rescued, in the format "effect|duration|amplifier"
-rescueRespawnEffects = [ "minecraft:hunger|600|0", "minecraft:weakness|1200|0" ]
+rescueRespawnEffects = []
 
 # The food level to respawn with when a player was rescued, out of 20.
 rescueRespawnFoodLevel = 5
 
 # The amount of health to respawn with when a player was rescued, out of 20.
-rescueRespawnHealth = 1
+rescueRespawnHealth = 10
 
 # The time in ticks in which a player can still be rescued from death. 20 ticks are one second. Set to 0 to disable the timer.
 ticksUntilDeath = 2400
