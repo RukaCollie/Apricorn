@@ -95,7 +95,7 @@ dimensionAllowList = [ "minecraft:overworld", "minecraft:the_nether", "minecraft
 dimensionDenyList = [  ]
 
 # Ensures that pretty much every village will have a waystone, by spawning it as early as possible. In addition, this means waystones will generally be located in the center of the village.
-forceSpawnInVillages = false
+forceSpawnInVillages = true
 
 # Approximate chunk distance between waystones generated freely in world generation. Set to 0 to disable generation.
 frequency = 25
@@ -115,7 +115,7 @@ worldGenStyle = "BIOME"
 blocksPerXpLevel = 1000
 
 # The base xp level cost when travelling between dimensions. Ignores block distance.
-dimensionalWarpXpCost = 3
+dimensionalWarpXpCost = 0
 
 # The multiplier applied to the base xp cost when teleporting to a global waystone through any method.
 globalWaystoneXpCostMultiplier = 0.0
@@ -127,7 +127,7 @@ inventoryButtonXpCostMultiplier = 0.0
 inverseXpCost = false
 
 # The maximum base xp cost (may be exceeded by multipliers defined below), set to 0 to disable all distance-based XP costs
-maximumBaseXpCost = 3.0
+maximumBaseXpCost = 0.0
 
 # The minimum base xp cost (may be subceeded by multipliers defined below)
 minimumBaseXpCost = 0.0
