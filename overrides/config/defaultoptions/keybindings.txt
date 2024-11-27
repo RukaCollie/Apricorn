@@ -118,6 +118,7 @@ key_key.travelersbackpack.sort:key.keyboard.unknown:NONE
 key_key.travelersbackpack.ability:key.keyboard.unknown:NONE
 key_key.travelersbackpack.cycle_tool:key.keyboard.z:NONE
 key_key.travelersbackpack.toggle_tank:key.keyboard.n:NONE
+key_key.veinmining.activate.desc:key.keyboard.grave.accent:NONE
 key_key.whereisit.search:key.keyboard.y:NONE
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown:NONE
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add:NONE
