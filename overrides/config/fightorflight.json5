@@ -8,16 +8,13 @@
 	// The minimum level a Pokemon needs to be to fight back when provoked.
 	"minimum_attack_level": 5,
 	// The minimum level a Pokemon needs to be to attack unprovoked.
-	"minimum_attack_unprovoked_level": 10,
+	"minimum_attack_unprovoked_level": 100,
 	// Are Dark types more aggressive at or below light level 7 and less aggressive at or above light level 12
 	"dark_light_level_aggro": true,
 	// Are Ghost types more aggressive at or below light level 7 and less aggressive at or above light level 12
 	"ghost_light_level_aggro": true,
 	// Pokemon that will always be aggressive
-	"always_aggro": [
-		"mankey",
-		"primeape"
-	],
+	"always_aggro": [],
 	// Pokemon that will never be aggressive
 	"never_aggro": [],
 	// Do player Pokemon defend their owners when they attack or are attacked by other mobs?
@@ -31,7 +28,7 @@
 	// The amount of damage a pokemon would do on contact if it had 0 ATK and Sp.ATK.
 	"minimum_attack_damage": 1.0,
 	// The amount of damage a pokemon would do on contact if it had 255 ATK or Sp.ATK.
-	"maximum_attack_damage": 25.0,
+	"maximum_attack_damage": 5.0,
 	// When a player owned Pokemon hurts or is hurt by a wild pokemon, should a pokemon battle be started?
 	"force_wild_battle_on_pokemon_hurt": false,
 	// When a player owned Pokemon hurts or is hurt by another player's pokemon, should a pokemon battle be started? (EXPERIMENTAL)
