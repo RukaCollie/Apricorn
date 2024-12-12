@@ -501,6 +501,21 @@
       "fileSize": 19775
     },
     {
+      "path": "mods/BotanyPots-Fabric-1.20.1-13.0.39.jar",
+      "hashes": {
+        "sha1": "b9421cdc5e0a305dc59ad400a574a8c860481d04",
+        "sha512": "2455e91a5f49441aa1f6b6bef6c6d84f5f4d59dd35ca7a3116698bccc47ec48e0c9bfbe02c5acc6fcf6e5d7577659994591c6f40018d69e81dfa74cccab2b8b0"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/U6BUTZ7K/versions/zKxhUSqf/BotanyPots-Fabric-1.20.1-13.0.39.jar"
+      ],
+      "fileSize": 1042619
+    },
+    {
       "path": "mods/bwncr-fabric-1.20.1-3.17.1.jar",
       "hashes": {
         "sha1": "2b9add3ead62d9a6ece3c119ffb1973f08592a51",
@@ -1264,6 +1279,21 @@
         "https://cdn.modrinth.com/data/705gWllI/versions/BslzSzGd/emiffect-fabric-1.1.2%2Bmc1.20.1.jar"
       ],
       "fileSize": 18348
+    },
+    {
+      "path": "mods/emized-botany-pots-1.0.0.jar",
+      "hashes": {
+        "sha512": "112371c26e23735d58b1ba7bb13e4e4d53d1ea3ab8576258353cf8afaa736466b237e513e442bfa70b839bfb891622d22258dfca8f153232957813d70f7d2aa4",
+        "sha1": "d973ba1e5c5f393f63716d3b7588facc8c9bcb38"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/IhMKi1nq/versions/8zvSgkjC/emized-botany-pots-1.0.0.jar"
+      ],
+      "fileSize": 17774
     },
     {
       "path": "mods/enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar",
