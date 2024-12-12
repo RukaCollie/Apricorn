@@ -1476,19 +1476,19 @@
       "fileSize": 156773
     },
     {
-      "path": "mods/FarmersDelight-1.20.1-2.2.0+refabricated.jar",
+      "path": "mods/FarmersDelight-1.20.1-2.2.4+refabricated.jar",
       "hashes": {
-        "sha512": "5bc962b9aa4628fe0b0722a811d39109c05002d0e80abaf8ad89b0b20568c0c9bc9ce3246987802846f04c17cd9149b7eb036d9afbca63c1cc35157edfe1eef7",
-        "sha1": "5eeb30705275f9b3152902fdd6d475e16f8c78c1"
+        "sha512": "5af1fb5be862bb3fa806465962eb028936d8e0b90bc1fd05bab222ceb3fb7169e4f716a1e10ddf32acae594c33881d34ffa8fabef1112fc53424ddfb423fd1c8",
+        "sha1": "e288cd8c50236848e46ea381202b7e183a820a77"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/7vxePowz/versions/vXPVU0EZ/FarmersDelight-1.20.1-2.2.0%2Brefabricated.jar"
+        "https://cdn.modrinth.com/data/7vxePowz/versions/Ms2QOr1b/FarmersDelight-1.20.1-2.2.4%2Brefabricated.jar"
       ],
-      "fileSize": 6193396
+      "fileSize": 7994953
     },
     {
       "path": "mods/FarmersDelight-Expansion-1.2.2+1.20.1.jar",
