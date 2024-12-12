@@ -1131,6 +1131,21 @@
       "fileSize": 13161726
     },
     {
+      "path": "mods/durabilitytooltip-1.1.5-fabric-mc1.20.jar",
+      "hashes": {
+        "sha1": "cfee9a225e8b2b123594815150a4df9484a7d1e8",
+        "sha512": "207d3f32d031bfc391ab267c64f87b9a90b0370aa5e579c217f6774f6a69aeac141c7b8a013d144ccde4f0ed0ce162071358e55cff632fb3d82ad4de8efcf5a3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/smUP7V3r/versions/WmJeyttw/durabilitytooltip-1.1.5-fabric-mc1.20.jar"
+      ],
+      "fileSize": 20716
+    },
+    {
       "path": "mods/dynamiccrosshair-7.4.4+1.20-fabric.jar",
       "hashes": {
         "sha512": "21a634aa425d4b6e6b72843411d5e878ff4c93cb32cbd240c81bca61de1003a8694a19a955c6433accc30550ab6645496929084a7e2c703063029bd56843f3ef",
@@ -2779,6 +2794,21 @@
         "https://cdn.modrinth.com/data/j3FONRYr/versions/fTl6NfPL/Structory_Towers_1.20.x_v1.0.7.jar"
       ],
       "fileSize": 526234
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+      "hashes": {
+        "sha1": "964df96c16afe775efd467b22f24458915805ad8",
+        "sha512": "bccd2d3e55a70c7d4c1aedaa9e85d6d0039e982ebdab40bc2aeba4b27a5112859f7a05c342c3c9575ff5d8ced769d1feffb104ecdd4d19cac8afba9ea2017c52"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/LN9BxssP/versions/Ur02nrUT/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar"
+      ],
+      "fileSize": 207990
     },
     {
       "path": "mods/supermartijn642corelib-1.1.12b-fabric-mc1.20.jar",
