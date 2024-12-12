@@ -801,19 +801,19 @@
       "fileSize": 218127
     },
     {
-      "path": "mods/cratedelight-24.11.06-1.20-fabric.jar",
+      "path": "mods/cratedelight-24.11.22-1.20-fabric.jar",
       "hashes": {
-        "sha1": "a499425c8417764151a933bb59f09dbc908162d9",
-        "sha512": "cba3dfacb729e779162a9d21925a7b2e4fc416eedcaabf693fa4ccfabc37d2a29c3c3ef5909bb3d9d340444a98b849f39ee4affbb5d11ab8c0b3b63a98c6b080"
+        "sha512": "7f820c536f9546c0dd2eefcf88e587138a4fd0cbc3a9e94c78ef2c3ede0d5e93b35221bf1a9e6176df1e5de2578dfe775336d862fdccd8b1ddc1e18495e5ed10",
+        "sha1": "7213c941d4fcc6ca842973b7427a24102ed94a4d"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/9rlXSyLg/versions/JdvLQhsy/cratedelight-24.11.06-1.20-fabric.jar"
+        "https://cdn.modrinth.com/data/9rlXSyLg/versions/nU9cqGRT/cratedelight-24.11.22-1.20-fabric.jar"
       ],
-      "fileSize": 233061
+      "fileSize": 222667
     },
     {
       "path": "mods/create_enchantment_industry-1.2.16.jar",
