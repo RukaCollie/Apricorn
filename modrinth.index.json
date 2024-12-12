@@ -111,6 +111,21 @@
       "fileSize": 201836
     },
     {
+      "path": "mods/1.20.1-1.20.1-0.3.jar",
+      "hashes": {
+        "sha1": "de8221f7235a8f529ef031ae019a90f8b7d4f429",
+        "sha512": "c4a258e9bb1b857f3faeae254fb4e9f8a5fc972e8211466b76003ecc4f4deffd41de69902db0045327535915d46916eca2b94378037f3084e1f2c3a511ba2e8d"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/OwtcCsNI/versions/Zl9NhRSB/1.20.1-1.20.1-0.3.jar"
+      ],
+      "fileSize": 58684
+    },
+    {
       "path": "mods/accessories_tclayer-3.8.1-beta.14+1.20.1.jar",
       "hashes": {
         "sha512": "caaeff26f344cf9503915844f598e25144a14dcca116d10f470fbffaa8681f6587ac109f47aed91d33c7d61214068062b96e56f3f15acf9c9801f09e654154b5",
